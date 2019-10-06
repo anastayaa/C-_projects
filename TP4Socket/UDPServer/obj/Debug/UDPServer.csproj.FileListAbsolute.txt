@@ -1,0 +1,7 @@
+E:\projetC#\TP4\UDPServer\bin\Debug\UDPServer.exe.config
+E:\projetC#\TP4\UDPServer\bin\Debug\UDPServer.exe
+E:\projetC#\TP4\UDPServer\bin\Debug\UDPServer.pdb
+E:\projetC#\TP4\UDPServer\obj\Debug\UDPServer.csprojAssemblyReference.cache
+E:\projetC#\TP4\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+E:\projetC#\TP4\UDPServer\obj\Debug\UDPServer.exe
+E:\projetC#\TP4\UDPServer\obj\Debug\UDPServer.pdb

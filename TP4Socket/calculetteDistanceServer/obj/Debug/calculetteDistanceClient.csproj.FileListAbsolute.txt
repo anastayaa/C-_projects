@@ -1,0 +1,15 @@
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistanceServer.exe.config
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistanceServer.exe
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistanceServer.pdb
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceClient.csprojAssemblyReference.cache
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceServer.Form1.resources
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceServer.Properties.Resources.resources
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceClient.csproj.GenerateResource.cache
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceClient.csproj.CoreCompileInputs.cache
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceServer.exe
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceServer.pdb
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistane.exe
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistane.pdb
+E:\projetC#\TP4\calculetteDistanceServer\bin\Debug\calculetteDistane.exe.config
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceClient.csproj.CopyComplete
+E:\projetC#\TP4\calculetteDistanceServer\obj\Debug\calculetteDistanceClient.Form1.resources

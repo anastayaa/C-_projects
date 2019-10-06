@@ -1,0 +1,2 @@
+E:\projetC#\TP4\dsTest\obj\Debug\dsTest.csprojAssemblyReference.cache
+E:\projetC#\TP4\dsTest\obj\Debug\dsTest.csproj.CoreCompileInputs.cache

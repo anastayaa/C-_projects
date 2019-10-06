@@ -1,0 +1,7 @@
+E:\projetC#\TP4\calculetteDistane\bin\Debug\calculetteDistane.exe.config
+E:\projetC#\TP4\calculetteDistane\bin\Debug\calculetteDistane.exe
+E:\projetC#\TP4\calculetteDistane\bin\Debug\calculetteDistane.pdb
+E:\projetC#\TP4\calculetteDistane\obj\Debug\calculetteDistaneServer.csprojAssemblyReference.cache
+E:\projetC#\TP4\calculetteDistane\obj\Debug\calculetteDistaneServer.csproj.CoreCompileInputs.cache
+E:\projetC#\TP4\calculetteDistane\obj\Debug\calculetteDistane.exe
+E:\projetC#\TP4\calculetteDistane\obj\Debug\calculetteDistane.pdb

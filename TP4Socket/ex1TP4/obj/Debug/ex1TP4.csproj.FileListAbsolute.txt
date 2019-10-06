@@ -1,0 +1,7 @@
+E:\projetC#\TP4\ex1TP4\bin\Debug\ex1TP4.exe.config
+E:\projetC#\TP4\ex1TP4\bin\Debug\ex1TP4.exe
+E:\projetC#\TP4\ex1TP4\bin\Debug\ex1TP4.pdb
+E:\projetC#\TP4\ex1TP4\obj\Debug\ex1TP4.csproj.CoreCompileInputs.cache
+E:\projetC#\TP4\ex1TP4\obj\Debug\ex1TP4.exe
+E:\projetC#\TP4\ex1TP4\obj\Debug\ex1TP4.pdb
+E:\projetC#\TP4\ex1TP4\obj\Debug\ex1TP4.csprojAssemblyReference.cache

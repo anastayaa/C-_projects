@@ -1,0 +1,10 @@
+E:\projetC#\TP4\calculetteClient\bin\Debug\calculetteClient.exe.config
+E:\projetC#\TP4\calculetteClient\bin\Debug\calculetteClient.exe
+E:\projetC#\TP4\calculetteClient\bin\Debug\calculetteClient.pdb
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.csprojAssemblyReference.cache
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.Form1.resources
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.Properties.Resources.resources
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.csproj.GenerateResource.cache
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.csproj.CoreCompileInputs.cache
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.exe
+E:\projetC#\TP4\calculetteClient\obj\Debug\calculetteClient.pdb
