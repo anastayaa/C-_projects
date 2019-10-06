@@ -1,0 +1,10 @@
+E:\projetC#\preparation\lampesColorees\bin\Debug\lampesColorees.exe.config
+E:\projetC#\preparation\lampesColorees\bin\Debug\lampesColorees.exe
+E:\projetC#\preparation\lampesColorees\bin\Debug\lampesColorees.pdb
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.csprojAssemblyReference.cache
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.Form1.resources
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.Properties.Resources.resources
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.csproj.GenerateResource.cache
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.exe
+E:\projetC#\preparation\lampesColorees\obj\Debug\lampesColorees.pdb

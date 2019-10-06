@@ -1,0 +1,9 @@
+E:\projetC#\preparation\chronometre\bin\Debug\chronometre.exe.config
+E:\projetC#\preparation\chronometre\bin\Debug\chronometre.exe
+E:\projetC#\preparation\chronometre\bin\Debug\chronometre.pdb
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.Form1.resources
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.Properties.Resources.resources
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.csproj.GenerateResource.cache
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.exe
+E:\projetC#\preparation\chronometre\obj\Debug\chronometre.pdb

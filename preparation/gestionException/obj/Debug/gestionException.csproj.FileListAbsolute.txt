@@ -1,0 +1,7 @@
+E:\projetC#\preparation\gestionException\bin\Debug\gestionException.exe.config
+E:\projetC#\preparation\gestionException\bin\Debug\gestionException.exe
+E:\projetC#\preparation\gestionException\bin\Debug\gestionException.pdb
+E:\projetC#\preparation\gestionException\obj\Debug\gestionException.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\gestionException\obj\Debug\gestionException.exe
+E:\projetC#\preparation\gestionException\obj\Debug\gestionException.pdb
+E:\projetC#\preparation\gestionException\obj\Debug\gestionException.csprojAssemblyReference.cache

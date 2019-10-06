@@ -1,0 +1,10 @@
+E:\projetC#\preparation\DeplacerElementsDeuxList\bin\Debug\DeplacerElementsDeuxList.exe.config
+E:\projetC#\preparation\DeplacerElementsDeuxList\bin\Debug\DeplacerElementsDeuxList.exe
+E:\projetC#\preparation\DeplacerElementsDeuxList\bin\Debug\DeplacerElementsDeuxList.pdb
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.Form1.resources
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.Properties.Resources.resources
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.csproj.GenerateResource.cache
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.exe
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.pdb
+E:\projetC#\preparation\DeplacerElementsDeuxList\obj\Debug\DeplacerElementsDeuxList.csprojAssemblyReference.cache

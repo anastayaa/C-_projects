@@ -1,0 +1,10 @@
+E:\projetC#\preparation\prixBillet\bin\Debug\prixBillet.exe.config
+E:\projetC#\preparation\prixBillet\bin\Debug\prixBillet.exe
+E:\projetC#\preparation\prixBillet\bin\Debug\prixBillet.pdb
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.csprojAssemblyReference.cache
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.Form1.resources
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.Properties.Resources.resources
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.csproj.GenerateResource.cache
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.exe
+E:\projetC#\preparation\prixBillet\obj\Debug\prixBillet.pdb

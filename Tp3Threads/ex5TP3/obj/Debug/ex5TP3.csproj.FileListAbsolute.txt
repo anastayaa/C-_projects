@@ -1,0 +1,10 @@
+E:\projetC#\Tp3\ex5TP3\bin\Debug\ex5TP3.exe.config
+E:\projetC#\Tp3\ex5TP3\bin\Debug\ex5TP3.exe
+E:\projetC#\Tp3\ex5TP3\bin\Debug\ex5TP3.pdb
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.Form1.resources
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.Properties.Resources.resources
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.csproj.GenerateResource.cache
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.exe
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.pdb
+E:\projetC#\Tp3\ex5TP3\obj\Debug\ex5TP3.csprojAssemblyReference.cache

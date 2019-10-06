@@ -1,0 +1,7 @@
+E:\projetC#\preparation\QCM\bin\Debug\QCM.exe.config
+E:\projetC#\preparation\QCM\bin\Debug\QCM.exe
+E:\projetC#\preparation\QCM\bin\Debug\QCM.pdb
+E:\projetC#\preparation\QCM\obj\Debug\QCM.csprojAssemblyReference.cache
+E:\projetC#\preparation\QCM\obj\Debug\QCM.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\QCM\obj\Debug\QCM.exe
+E:\projetC#\preparation\QCM\obj\Debug\QCM.pdb

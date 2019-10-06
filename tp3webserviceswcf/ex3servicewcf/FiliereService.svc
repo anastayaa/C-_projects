@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ex3servicewcf.FiliereService" CodeBehind="FiliereService.svc.cs" %>

@@ -1,0 +1,6 @@
+E:\projetC#\preparation\gestionStock\bin\Debug\gestionStock.exe.config
+E:\projetC#\preparation\gestionStock\bin\Debug\gestionStock.exe
+E:\projetC#\preparation\gestionStock\bin\Debug\gestionStock.pdb
+E:\projetC#\preparation\gestionStock\obj\Debug\gestionStock.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\gestionStock\obj\Debug\gestionStock.exe
+E:\projetC#\preparation\gestionStock\obj\Debug\gestionStock.pdb

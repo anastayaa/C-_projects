@@ -1,0 +1,7 @@
+E:\projetC#\Tp3\ex2TP3\bin\Debug\ex2TP3.exe.config
+E:\projetC#\Tp3\ex2TP3\bin\Debug\ex2TP3.exe
+E:\projetC#\Tp3\ex2TP3\bin\Debug\ex2TP3.pdb
+E:\projetC#\Tp3\ex2TP3\obj\Debug\ex2TP3.csprojAssemblyReference.cache
+E:\projetC#\Tp3\ex2TP3\obj\Debug\ex2TP3.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp3\ex2TP3\obj\Debug\ex2TP3.exe
+E:\projetC#\Tp3\ex2TP3\obj\Debug\ex2TP3.pdb

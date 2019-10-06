@@ -1,0 +1,14 @@
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex4clientwinformselfhosting.exe.config
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex4clientwinformselfhosting.exe
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex4clientwinformselfhosting.pdb
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.csprojAssemblyReference.cache
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.Form1.resources
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.Properties.Resources.resources
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.csproj.GenerateResource.cache
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.csproj.CoreCompileInputs.cache
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.exe
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.pdb
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex1servicewcf.dll
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex1servicewcf.pdb
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\bin\Debug\ex1servicewcf.dll.config
+E:\C#_projects\tp3webserviceswcf\ex4clientwinformselfhosting\obj\Debug\ex4clientwinformselfhosting.csproj.CopyComplete

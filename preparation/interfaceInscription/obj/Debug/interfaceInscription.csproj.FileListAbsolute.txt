@@ -1,0 +1,10 @@
+E:\projetC#\preparation\interfaceInscription\bin\Debug\interfaceInscription.exe.config
+E:\projetC#\preparation\interfaceInscription\bin\Debug\interfaceInscription.exe
+E:\projetC#\preparation\interfaceInscription\bin\Debug\interfaceInscription.pdb
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.Form1.resources
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.Properties.Resources.resources
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.csproj.GenerateResource.cache
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.exe
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.pdb
+E:\projetC#\preparation\interfaceInscription\obj\Debug\interfaceInscription.csprojAssemblyReference.cache

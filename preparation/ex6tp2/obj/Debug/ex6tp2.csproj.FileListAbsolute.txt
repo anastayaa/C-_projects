@@ -1,0 +1,7 @@
+E:\projetC#\ex6tp2\ex6tp2\bin\Debug\ex6tp2.exe.config
+E:\projetC#\ex6tp2\ex6tp2\bin\Debug\ex6tp2.exe
+E:\projetC#\ex6tp2\ex6tp2\bin\Debug\ex6tp2.pdb
+E:\projetC#\ex6tp2\ex6tp2\obj\Debug\ex6tp2.csprojAssemblyReference.cache
+E:\projetC#\ex6tp2\ex6tp2\obj\Debug\ex6tp2.csproj.CoreCompileInputs.cache
+E:\projetC#\ex6tp2\ex6tp2\obj\Debug\ex6tp2.exe
+E:\projetC#\ex6tp2\ex6tp2\obj\Debug\ex6tp2.pdb

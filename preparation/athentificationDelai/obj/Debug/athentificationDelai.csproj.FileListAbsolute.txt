@@ -1,0 +1,10 @@
+E:\projetC#\preparation\athentificationDelai\bin\Debug\athentificationDelai.exe.config
+E:\projetC#\preparation\athentificationDelai\bin\Debug\athentificationDelai.exe
+E:\projetC#\preparation\athentificationDelai\bin\Debug\athentificationDelai.pdb
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.csprojAssemblyReference.cache
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.Form1.resources
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.Properties.Resources.resources
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.csproj.GenerateResource.cache
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.exe
+E:\projetC#\preparation\athentificationDelai\obj\Debug\athentificationDelai.pdb

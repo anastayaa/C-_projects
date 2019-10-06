@@ -1,0 +1,7 @@
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\bin\ex3servicewcf.dll.config
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\bin\ex3servicewcf.dll
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\bin\ex3servicewcf.pdb
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\obj\Debug\ex3servicewcf.csprojAssemblyReference.cache
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\obj\Debug\ex3servicewcf.csproj.CoreCompileInputs.cache
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\obj\Debug\ex3servicewcf.dll
+E:\C#_projects\tp3webserviceswcf\ex3servicewcf\obj\Debug\ex3servicewcf.pdb

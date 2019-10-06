@@ -1,0 +1,17 @@
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex6TP3.exe.config
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex6TP3.exe
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex6TP3.pdb
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.csprojAssemblyReference.cache
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.Form1.resources
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.Properties.Resources.resources
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.csproj.GenerateResource.cache
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.exe
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.pdb
+E:\projetC#\Tp3\ex6TP3\obj\Debug\ex6TP3.csproj.CopyComplete
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex3TP3.exe
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex5TP3.exe
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex3TP3.pdb
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex3TP3.exe.config
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex5TP3.pdb
+E:\projetC#\Tp3\ex6TP3\bin\Debug\ex5TP3.exe.config

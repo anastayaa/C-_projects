@@ -1,0 +1,15 @@
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\bin\Debug\ex1clientwpf.exe.config
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\bin\Debug\ex1clientwpf.exe
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\bin\Debug\ex1clientwpf.pdb
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.csprojAssemblyReference.cache
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\MainWindow.g.cs
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\App.g.cs
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf_MarkupCompile.cache
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf_MarkupCompile.lref
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\MainWindow.baml
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.g.resources
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.Properties.Resources.resources
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.csproj.GenerateResource.cache
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.csproj.CoreCompileInputs.cache
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.exe
+E:\C#_projects\tp3webserviceswcf\ex1clientwpf\obj\Debug\ex1clientwpf.pdb

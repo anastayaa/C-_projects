@@ -1,0 +1,10 @@
+E:\projetC#\preparation\authentificationDelaiBarProgression\bin\Debug\authentificationDelaiBarProgression.exe.config
+E:\projetC#\preparation\authentificationDelaiBarProgression\bin\Debug\authentificationDelaiBarProgression.exe
+E:\projetC#\preparation\authentificationDelaiBarProgression\bin\Debug\authentificationDelaiBarProgression.pdb
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.csprojAssemblyReference.cache
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.Form1.resources
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.Properties.Resources.resources
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.csproj.GenerateResource.cache
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.csproj.CoreCompileInputs.cache
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.exe
+E:\projetC#\preparation\authentificationDelaiBarProgression\obj\Debug\authentificationDelaiBarProgression.pdb
