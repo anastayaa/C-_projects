@@ -1,0 +1,33 @@
+﻿@model ds.Models.Etudiant
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Gestion des filieres</h2>
+
+@using (Html.BeginForm("GetEtudiantById", "Filiere", FormMethod.Post))
+{
+    @Html.DropDownList("FiliereId", null, new { id = "filiere" })
+    <select id="contenu" name="cne">
+        <option>Selectionner un etudiant</option>
+    </select>
+    <input type="submit" value="Envoyer" />
+    <input type="submit" value="Retour" />
+}
+
+
+@section scripts{
+    <script>
+        $(function () {
+            $("#filiere").change(function () {
+                $.get("/Filiere/GetEtudiantByFiliere", { id: $("#filiere").val() }, function (data) {
+                    $("#contenu").empty();
+                    $.each(data, function (index, ligne) {
+                        $("#contenu").append("<option value='" + ligne.Cne + "'>" + ligne.Nom + "</option>")
+                    });
+                })
+            });
+        });
+    </script>
+}

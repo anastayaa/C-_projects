@@ -1,0 +1,10 @@
+E:\projetC#\Tp8Remoting\preparationds\bin\Debug\preparationds.exe.config
+E:\projetC#\Tp8Remoting\preparationds\bin\Debug\preparationds.exe
+E:\projetC#\Tp8Remoting\preparationds\bin\Debug\preparationds.pdb
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.csprojAssemblyReference.cache
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.Form1.resources
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.Properties.Resources.resources
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.csproj.GenerateResource.cache
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.exe
+E:\projetC#\Tp8Remoting\preparationds\obj\Debug\preparationds.pdb

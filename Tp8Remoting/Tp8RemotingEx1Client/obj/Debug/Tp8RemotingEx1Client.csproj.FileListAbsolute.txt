@@ -1,0 +1,13 @@
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\bin\Debug\Tp8RemotingEx1Client.exe.config
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\bin\Debug\Tp8RemotingEx1Client.exe
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\bin\Debug\Tp8RemotingEx1Client.pdb
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\bin\Debug\Tp8RemotingEx1Object.dll
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\bin\Debug\Tp8RemotingEx1Object.pdb
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.csprojAssemblyReference.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.Form1.resources
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.Properties.Resources.resources
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.csproj.GenerateResource.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.csproj.CopyComplete
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.exe
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Client\obj\Debug\Tp8RemotingEx1Client.pdb

@@ -1,0 +1,10 @@
+C:\Users\java\source\repos\Tp9DataBase\crudSample\bin\Debug\crudSample.exe.config
+C:\Users\java\source\repos\Tp9DataBase\crudSample\bin\Debug\crudSample.exe
+C:\Users\java\source\repos\Tp9DataBase\crudSample\bin\Debug\crudSample.pdb
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.csprojAssemblyReference.cache
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.Form1.resources
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.Properties.Resources.resources
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.csproj.GenerateResource.cache
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.csproj.CoreCompileInputs.cache
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.exe
+C:\Users\java\source\repos\Tp9DataBase\crudSample\obj\Debug\crudSample.pdb

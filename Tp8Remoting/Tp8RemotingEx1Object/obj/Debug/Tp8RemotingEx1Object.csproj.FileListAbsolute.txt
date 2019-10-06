@@ -1,0 +1,5 @@
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Object\bin\Debug\Tp8RemotingEx1Object.dll
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Object\bin\Debug\Tp8RemotingEx1Object.pdb
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Object\obj\Debug\Tp8RemotingEx1Object.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Object\obj\Debug\Tp8RemotingEx1Object.dll
+E:\projetC#\Tp8Remoting\Tp8RemotingEx1Object\obj\Debug\Tp8RemotingEx1Object.pdb

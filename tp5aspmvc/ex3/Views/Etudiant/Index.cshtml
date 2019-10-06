@@ -1,0 +1,29 @@
+﻿@model ex3.Models.Etudiant
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<input type="text" name="cne" id="cne" />
+<input type = "submit" value = "Submit" id="submit" />
+
+<div id="contenu">
+
+</div>
+
+@section scripts{
+    <script>
+        $(function () {
+            $("#submit").click(function () {
+                $.get("/Etudiant/GetEtudiant", { cne: $("#cne").val() }, function (data) {
+                    $("#contenu").empty();
+                    $.each(data, function (index, ligne) {
+                        $("#contenu").append("Cne: " + ligne.Cne + ", Nom: " + ligne.Nom)
+                    });
+                })
+            });
+        });
+    </script>
+}

@@ -1,0 +1,12 @@
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\bin\Debug\Tp9DataBaseLinqToSQL.exe.config
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\bin\Debug\Tp9DataBaseLinqToSQL.exe
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\bin\Debug\Tp9DataBaseLinqToSQL.pdb
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.csprojAssemblyReference.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.Form1.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.Form2.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.Properties.Resources.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.csproj.GenerateResource.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.exe
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.pdb
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseLinqToSQL\obj\Debug\Tp9DataBaseLinqToSQL.Form3.resources

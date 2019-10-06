@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Page1";
+}
+
+<h2>Page1</h2>
+
+@using (Html.BeginForm("Page2", "Etudiant", FormMethod.Post))
+{
+    @Html.DropDownList("cne", ViewBag.etudiants as SelectList, "Selectionner un etudiant")
+    <input type="submit" value="Submit" />
+
+}

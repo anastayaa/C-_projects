@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Ajax.BeginForm("Create", "Etudiant", new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "div1", InsertionMode = InsertionMode.Replace })
+
+@Html.TextBox("Cne")<br />
+@Html.TextBox("Nom")<br />
+<input type="submit" value="Ajouter" />
+<input type="submit" value="Retour" />
+
+@{ Html.EndForm();}
+
+<div id="div1"></div>
+
+@section scripts{
+
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}
+

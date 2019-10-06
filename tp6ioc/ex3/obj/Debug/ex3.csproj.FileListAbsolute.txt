@@ -1,0 +1,7 @@
+E:\C#_projects\tp6ioc\ex3\bin\Debug\ex3.exe.config
+E:\C#_projects\tp6ioc\ex3\bin\Debug\ex3.exe
+E:\C#_projects\tp6ioc\ex3\bin\Debug\ex3.pdb
+E:\C#_projects\tp6ioc\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+E:\C#_projects\tp6ioc\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+E:\C#_projects\tp6ioc\ex3\obj\Debug\ex3.exe
+E:\C#_projects\tp6ioc\ex3\obj\Debug\ex3.pdb

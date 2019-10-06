@@ -1,0 +1,6 @@
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\bin\Debug\Tp8RemotingEx2Jeu.dll
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\bin\Debug\Tp8RemotingEx2Jeu.pdb
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\obj\Debug\Tp8RemotingEx2Jeu.csprojAssemblyReference.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\obj\Debug\Tp8RemotingEx2Jeu.csproj.CoreCompileInputs.cache
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\obj\Debug\Tp8RemotingEx2Jeu.dll
+E:\projetC#\Tp8Remoting\Tp8RemotingEx2Jeu\obj\Debug\Tp8RemotingEx2Jeu.pdb

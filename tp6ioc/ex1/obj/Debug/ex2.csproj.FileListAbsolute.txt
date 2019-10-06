@@ -1,0 +1,13 @@
+E:\C#_projects\tp6ioc\ex1\bin\Debug\ex1.exe.config
+E:\C#_projects\tp6ioc\ex1\bin\Debug\ex1.exe
+E:\C#_projects\tp6ioc\ex1\bin\Debug\ex1.pdb
+E:\C#_projects\tp6ioc\ex1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#_projects\tp6ioc\ex1\bin\Debug\Unity.Abstractions.dll
+E:\C#_projects\tp6ioc\ex1\bin\Debug\Unity.Container.dll
+E:\C#_projects\tp6ioc\ex1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#_projects\tp6ioc\ex1\bin\Debug\Unity.Abstractions.pdb
+E:\C#_projects\tp6ioc\ex1\bin\Debug\Unity.Container.pdb
+E:\C#_projects\tp6ioc\ex1\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+E:\C#_projects\tp6ioc\ex1\obj\Debug\ex2.csproj.CopyComplete
+E:\C#_projects\tp6ioc\ex1\obj\Debug\ex1.exe
+E:\C#_projects\tp6ioc\ex1\obj\Debug\ex1.pdb

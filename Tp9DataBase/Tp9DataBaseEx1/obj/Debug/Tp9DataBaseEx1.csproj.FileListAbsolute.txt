@@ -1,0 +1,12 @@
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\bin\Debug\Tp9DataBaseEx1.exe.config
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\bin\Debug\Tp9DataBaseEx1.exe
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\bin\Debug\Tp9DataBaseEx1.pdb
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.csprojAssemblyReference.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.Form1.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.Properties.Resources.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.csproj.GenerateResource.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.csproj.CoreCompileInputs.cache
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.exe
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.pdb
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.Form2.resources
+C:\Users\java\source\repos\Tp9DataBase\Tp9DataBaseEx1\obj\Debug\Tp9DataBaseEx1.Form3.resources

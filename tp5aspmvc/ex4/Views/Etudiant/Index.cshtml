@@ -1,0 +1,16 @@
+﻿@using GridMvc.Html
+@model List<ex4.Models.Etudiant>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(e => e.Cne).Titled("Cne").Filterable(true);
+    columns.Add(e => e.Nom).Titled("Nom").Filterable(true);
+    columns.Add(e => e.Filiere.Nom).Titled("Filiere").Filterable(true);
+}).WithPaging(1).Sortable(true)
+

@@ -1,0 +1,11 @@
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\bin\Debug\projetCSharp.exe.config
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\bin\Debug\projetCSharp.exe
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\bin\Debug\projetCSharp.pdb
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.csprojAssemblyReference.cache
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.Properties.Resources.resources
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.csproj.GenerateResource.cache
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.csproj.CoreCompileInputs.cache
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.exe
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.pdb
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.Form1.resources
+C:\Users\java\source\repos\Tp9DataBase\projetCSharp\obj\Debug\projetCSharp.import.resources
